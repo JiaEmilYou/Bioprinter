@@ -1,0 +1,7 @@
+In most cases, you will not need this. But if things really go wrong, this might save you from a catastrophe.
+
+Emergency stop for the printer: pull out the power plug.
+The program is already on the 3D printer. Stopping the program on the computer does NOT stop the printer.
+
+Emergency stop for the pressure: push the button on arduino or turn off the pressure source.
+Again, the python interface will NOT help you stop the pressure.
